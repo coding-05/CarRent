@@ -21,25 +21,19 @@ CarRent is a mobile car rental application developed with React Native and Fireb
 
 ## 4. Running the Application
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/iymane6543/G3-CarRent.git
-```
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
 ```bash
 cd G3-CarRent
 ```
 
-3. Install dependencies:
+2. Install dependencies:
 
 ```bash
 npm install
 ```
 
-4. Start the application:
+3. Start the application:
 
 ```bash
 npx expo start --web
