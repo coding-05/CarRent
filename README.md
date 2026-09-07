@@ -68,11 +68,9 @@ docker-compose up
 
 
 ## Screenshots
-
-![CarRent Home Screen](./1.jpeg)
-
-![CarRent Screen 2](./2.jpeg)
-
-![CarRent Screen 3](./3.jpeg)
-
-![CarRent Screen 4](./4.jpeg)
+<p align="center">
+  <img src="./1.jpeg" width="180">
+  <img src="./2.jpeg" width="180">
+  <img src="./3.jpeg" width="180">
+  <img src="./4.jpeg" width="180">
+</p>
