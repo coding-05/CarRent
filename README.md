@@ -68,9 +68,10 @@ docker-compose up
 ##  Screenshots
 
 <p align="center">
+  ![CarRent App](1.jpeg)
   <img src="screenshots/1.jpeg" width="200" />
   <img src="screenshots/2.jpeg" width="200" />
   <img src="screenshots/3.jpeg" width="200" />
   <img src="screenshots/4.jpeg" width="200" />
 </p>
-![CarRent App](1.jpeg)
+
