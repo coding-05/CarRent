@@ -65,13 +65,14 @@ To run the Firebase emulators locally:
 ```bash
 docker-compose up
 ```
-##  Screenshots
 
-<p align="center">
-  ![CarRent App](1.jpeg)
-  <img src="screenshots/1.jpeg" width="200" />
-  <img src="screenshots/2.jpeg" width="200" />
-  <img src="screenshots/3.jpeg" width="200" />
-  <img src="screenshots/4.jpeg" width="200" />
-</p>
 
+## Screenshots
+
+![CarRent Home Screen](./1.jpeg)
+
+![CarRent Screen 2](./2.jpeg)
+
+![CarRent Screen 3](./3.jpeg)
+
+![CarRent Screen 4](./4.jpeg)
